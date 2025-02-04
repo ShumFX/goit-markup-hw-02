@@ -108,6 +108,10 @@ a {
   background-color: #f4f4fd;
 }
 
+.team-link {
+  background-color: #fff;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
